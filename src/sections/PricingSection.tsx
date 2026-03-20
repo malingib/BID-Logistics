@@ -6,7 +6,7 @@ const plans = [
   {
     name: 'Studio / Bedsitter',
     subtitle: 'Perfect for Singles',
-    price: '15K',
+    price: '12K - 15k',
     features: [
       'Up to 10 cartons',
       '1 mattress (any size)',
@@ -20,7 +20,7 @@ const plans = [
   {
     name: '1-2 Bedroom',
     subtitle: 'Most Popular',
-    price: '25K',
+    price: '15K - 24k',
     features: [
       'Up to 25 cartons',
       '3 mattresses (any size)',
@@ -35,7 +35,7 @@ const plans = [
   {
     name: '3-4 Bedroom',
     subtitle: 'For Large Families',
-    price: '45K',
+    price: '24K - 38K',
     features: [
       'Up to 50 cartons',
       '5 mattresses (any size)',

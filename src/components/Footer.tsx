@@ -122,7 +122,7 @@ export default function Footer() {
             <ul className="space-y-4">
               <li>
                 <a
-                  href="tel:+254700123456"
+                  href="tel:+254781463597"
                   className="text-gray-400 hover:text-[#E85D04] transition-colors flex items-center gap-3"
                 >
                   <div className="w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center flex-shrink-0">
@@ -133,7 +133,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="mailto:info@bidlogistics.co.ke"
+                  href="mailto:bidlogistics9@gmail.com"
                   className="text-gray-400 hover:text-[#E85D04] transition-colors flex items-center gap-3"
                 >
                   <div className="w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center flex-shrink-0">
